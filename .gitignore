@@ -149,3 +149,9 @@ oryx-build-commands.txt
 .DS_Store
 docs/cli.md
 .pixi
+digestion.json
+mz_values.json
+spectrum.png
+workflow_digest.json
+workflow_mz.json
+workflow_spectrum.png
