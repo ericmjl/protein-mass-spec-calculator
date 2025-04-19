@@ -155,3 +155,6 @@ spectrum.png
 workflow_digest.json
 workflow_mz.json
 workflow_spectrum.png
+
+# SQLite database
+message_log.db
